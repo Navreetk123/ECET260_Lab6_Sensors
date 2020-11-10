@@ -1,5 +1,10 @@
 /* USER CODE BEGIN Header */
 /**
+ * Navreet Kaur
+ * Lab 6 ECET 260 Sensor Data Display
+ * This Lab converts sensors data from celsius to Fahrenheit using Machine Learning (Google Colab)
+ * and displays it on LCD Screen.
+ * 14 Oct,2019
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
